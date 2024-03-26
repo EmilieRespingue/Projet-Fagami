@@ -52,19 +52,17 @@ The code is organized into different sections:
 - Update Loop: Handling game logic updates such as player movement, enemy movement, collision detection, and message updates.
 - Drawing: Rendering the game world, characters, messages, and other visual elements.
   
-## Game Mechanics: 
+### Game Mechanics: 
 Implementing specific game mechanics such as player movement, collision detection, enemy behavior, and message handling.
 
-## Message Management: 
+### Message Management: 
 Functions for creating, updating, and displaying messages to the player.
 
-## Collision Detection:
+### Collision Detection:
 Functions for checking collisions between game objects.
 
-## Enemy Behavior:
+### Enemy Behavior:
 Functions for defining and controlling the behavior of enemies.
-
-
 
   
 ### Credits
